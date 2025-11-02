@@ -4,3 +4,5 @@ This repository presents a dynamic market neutral investment strategy implemente
 The code also fetches and aligns the S&P 500 index, allowing direct comparison of strategy performance with the benchmark. The results show this approach maintains competitive cumulative returns and beats the S&P 500 on most trading days within the sample period, despite occasional periods of lag or drawdown.
 
 Market neutral strategies like this can be applied to stock baskets, sector portfolios, or even international assets, wherever relative price movements can be systematically ranked and tracked. This implementation is illustrative, showing how to create, rebalance, and evaluate a dollar-neutral strategy with clear constraints and daily re-ranking. The method’s flexibility enables further research in risk management, alternative ranking signals, and real-world portfolio optimization.
+
+<img width="1001" height="509" alt="image" src="https://github.com/user-attachments/assets/d51912a3-14ce-4262-87b6-d5dceb204d78" />
