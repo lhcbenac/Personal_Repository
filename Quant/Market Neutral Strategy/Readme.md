@@ -5,4 +5,5 @@ The Market Neutral strategy here avoids the top 100 S&P 500 stocks and randomly 
 
 Days strategy beats SP500: 1138 out of 1254 (90.75%)
 
-<img width="1001" height="509" alt="image" src="https://github.com/user-attachments/assets/d51912a3-14ce-4262-87b6-d5dceb204d78" />
+<img width="988" height="509" alt="image" src="https://github.com/user-attachments/assets/158c0a78-c0bf-41ed-bd05-1ab4fcf9f37f" />
+
