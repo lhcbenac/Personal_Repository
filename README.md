@@ -33,6 +33,16 @@ Current working strategies include:
 
 ***
 
+
+## Mission
+
+This repository aims to:
+- **Provide a clear learning path** for solid investment analysis — not widely available or organized elsewhere.
+- **Showcase advanced quant strategies** alongside practical fundamental analysis modules.
+- **Connect experienced and aspiring market participants** through transparent, actionable research.
+
+***
+***
 ## About the Creator
 
 **Luis Benac** — [Benac.com.br](https://benac.com.br)
@@ -58,17 +68,6 @@ Over 11 years in the financial markets, specializing in equity strategies, quant
 
 **Founder of Benac.com.br:**  
 Helping Brazilian retail investors and traders access consolidated data and actionable strategies.
-
-***
-
-## Mission
-
-This repository aims to:
-- **Provide a clear learning path** for solid investment analysis — not widely available or organized elsewhere.
-- **Showcase advanced quant strategies** alongside practical fundamental analysis modules.
-- **Connect experienced and aspiring market participants** through transparent, actionable research.
-
-***
 
 Feel free to fork, contribute, or reach out for collaboration! 
 
