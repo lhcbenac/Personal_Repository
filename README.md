@@ -66,7 +66,7 @@ This repository aims to:
 **Experience:**  
 Over 11 years in the financial markets, specializing in equity strategies, quantitative and algorithmic trading, portfolio management, and close interactions with stakeholders and clients.
 
-**Founder of Benac.com.br:**  
+**Founder of ** https://benac.com.br/**  
 Helping Brazilian retail investors and traders access consolidated data and actionable strategies.
 
 Feel free to fork, contribute, or reach out for collaboration! 
