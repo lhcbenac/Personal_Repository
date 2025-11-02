@@ -45,7 +45,7 @@ This repository aims to:
 ***
 ## About the Creator
 
-**Luis Benac** — [Benac.com.br](https://benac.com.br)
+**Luis Benac** — [LinkedIn](https://www.linkedin.com/in/luishbenac/)
 
 - **MGB - Master of Global Business | Finance**
   - SPJain – Business School -  Dubai/Singapore  
@@ -71,5 +71,4 @@ Helping Brazilian retail investors and traders access consolidated data and acti
 
 Feel free to fork, contribute, or reach out for collaboration! 
 
-https://www.linkedin.com/in/luishbenac/
 ---
