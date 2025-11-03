@@ -1,4 +1,4 @@
-**COLAB (https://colab.research.google.com/drive/1HdY7aWQfkyWvsfSUf7jnMePtK-4HjOm1?usp=sharing)**
+**COLAB NOTEBOOK[(https://colab.research.google.com/drive/1HdY7aWQfkyWvsfSUf7jnMePtK-4HjOm1?usp=sharing)]**
 
 ## L&S Strategy
 This repository contains a demonstration of a quantitative spread trading strategy based on mean-reversion principles and Bollinger Bands. The code automates the process of selecting a highly correlated stock pair from a given list, computes their price spread, and applies a simple set of buy/sell rules based on the spread’s position relative to its Bollinger Bands, with basic take-profit and stop-loss conditions.
