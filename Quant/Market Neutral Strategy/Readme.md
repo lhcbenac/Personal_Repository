@@ -4,14 +4,5 @@ The Market Neutral strategy here avoids the top 100 S&P 500 stocks and randomly 
 
 Days strategy beats SP500: 1238 out of 1254 (98.72%)
 Sharpe Ratio: 0.97
-count    1255.000000
-mean        3.518712
-std         1.817651
-min         0.998878
-25%         1.806267
-50%         3.162967
-75%         5.100774
-max         7.150245
-
 <img width="988" height="509" alt="image" src="https://github.com/user-attachments/assets/158c0a78-c0bf-41ed-bd05-1ab4fcf9f37f" />
 
