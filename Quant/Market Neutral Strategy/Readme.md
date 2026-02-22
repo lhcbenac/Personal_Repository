@@ -26,6 +26,8 @@ By acting as a liquidity provider during the chaotic opening minutes, the algori
 
 The introduction of the Volatility-Adjusted Gap filter completely unlocked the strategy's alpha, transforming a negative-expectancy model into a highly robust equity curve that climbs entirely independent of the S&P 500 benchmark.
 
+<img width="1156" height="577" alt="image" src="https://github.com/user-attachments/assets/dfd6376a-19f6-4b77-9b7c-4885e755b0bf" />
+
 | Metric | Strategy Performance |
 | :--- | :--- |
 | **Final Portfolio Value** | $20,291.50 |
