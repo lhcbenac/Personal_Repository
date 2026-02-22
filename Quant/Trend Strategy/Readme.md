@@ -46,6 +46,12 @@ This projected the strategy's behavior 252 trading days into the future, establi
 ---
 <img width="1178" height="588" alt="image" src="https://github.com/user-attachments/assets/7d6dd2fb-be06-4e52-8030-d24d9caa0ec7" />
 
+---
+<img width="1023" height="528" alt="image" src="https://github.com/user-attachments/assets/b6393811-081a-4ee2-a343-49de78ba8e2a" />
+
+---
+<img width="1023" height="547" alt="image" src="https://github.com/user-attachments/assets/486f1f12-b247-43fa-af9f-d1f1acb5fcc2" />
+
 ## 🛠️ Technologies Used
 
 * **Python** (Core Logic)
