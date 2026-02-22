@@ -1,4 +1,4 @@
-# 📈 Project 1: Intraday Trend Following & Walk-Forward Dynamic Allocation
+# 📈 Project : Intraday Trend Following & Walk-Forward Dynamic Allocation
 
 > **Objective:** Engineer a robust, pure intraday trend-following portfolio across a diversified universe of 39 US equities. By strictly executing trades Open-to-Close, the strategy intentionally eliminates overnight gap risk—a major source of uncontrolled variance in algorithmic trading—and relies entirely on capturing intraday momentum.
 
