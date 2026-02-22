@@ -44,8 +44,10 @@ This projected the strategy's behavior 252 trading days into the future, establi
 | **SPY Intraday (Benchmark)** | $458.90 | 0.23 | 52.69% |
 
 ---
+<img width="1178" height="588" alt="image" src="https://github.com/user-attachments/assets/7d6dd2fb-be06-4e52-8030-d24d9caa0ec7" />
 
 ## 🛠️ Technologies Used
+
 * **Python** (Core Logic)
 * **Pandas / NumPy** (Vectorized Data Manipulation)
 * **Statsmodels** (ARIMA Implementation)
