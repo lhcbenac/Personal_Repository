@@ -1,4 +1,4 @@
-# ⚖️ Project 3: Intraday Market Neutral & Volatility-Adjusted Gap Fading
+# ⚖️ Project : Intraday Market Neutral & Volatility-Adjusted Gap Fading
 
 > **Objective:** Engineer a zero-beta, pure alpha market-neutral portfolio. By strictly maintaining 100% Gross Exposure (50% Long / 50% Short) and executing purely intraday (Open-to-Close), this strategy eliminates both overnight gap risk and broader market directional risk.
 
